@@ -1,7 +1,7 @@
 
 <h2 align="left">Hi 👋! I'm Amraha Anwar, Web & Agentic AI Developer </h2>
 <br clear="both">
-<img align="right" height="360" src="./assets/girl.gif" alt="Hello GIF" />
+<img align="right" height="360" src="./assets/girly.gif" alt="Hello GIF" />
 
 ### 🌱 Currently Learning
 - OpenAI Agents SDK  
