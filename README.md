@@ -1,4 +1,8 @@
 <h2 align="left">Hi 👋! I'm Amraha Anwar, Web & Agentic AI Developer</h2>
+
+<br/>
+<br/>
+
 <img align="right" height="360" src="./assets/girly.gif" alt="Hijabi Coder Girl GIF" />
 
 
