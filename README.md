@@ -1,70 +1,64 @@
-
-<h2 align="left">Hi 👋! I'm Amraha Anwar, Web & Agentic AI Developer </h2>
-<br clear="both">
-<img align="right" height="360" src="./assets/girly.gif" alt="Hello GIF" />
-
-### 🌱 Currently Learning
-- OpenAI Agents SDK  
-- AI x Web Fusion Techniques  
-- Designing agentic workflows with real-time UI feedback  
-
-### 💬 Ask Me About
-- React, Next.js, TypeScript, Agentic AI, Tailwind, Sanity
-
-### 📫 Reach Me At
-- amrahaanwar@gmail.com
+<h2 align="left">Hi 👋! I'm Amraha Anwar, Web & Agentic AI Developer</h2>
+<img align="right" height="360" src="./assets/girly.gif" alt="Hijabi Coder Girl GIF" />
 
 
-### 🤝 Connect with Me
+<br/>
+<br/>
 
-<p align="center">
-  <a href="https://twitter.com/amrahaanwar4573" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" /></a>
-  <a href="https://www.linkedin.com/in/amraha-anwar-45bb342b3/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-  <a href="https://www.facebook.com/profile.php?id=61575787720877" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" /></a>
-  <a href="https://instagram.com/amrahaanwar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
-  <a href="https://www.behance.net/amrahaanwar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" /></a>
-  <a href="https://medium.com/@amrahaanwar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" /></a>
+### <img src="https://media.giphy.com/media/cNzJf9OeF1V38K7H3O/giphy.gif" height="25"/> Tech I'm Vibin' With
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
+</div>
+
+
+
+<br/>
+
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" height="25"/> Let's Link Up
+
+<p align="left">
+  <a href="mailto:amrahaanwar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amraha-anwar-45bb342b3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/amrahaanwar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.behance.net/amrahaanwar"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://medium.com/@amrahaanwar"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61575787720877"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://twitter.com/amrahaanwar4573"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01045a2c084b1f252b?mp_source=share"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
----
 
-### 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-</p>
+<br/>
 
----
-
-### 📊 GitHub Stats
+### <img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" height="32"/> GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amraha-anwar&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amraha-anwar&layout=compact&theme=dracula" height="150" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amraha-anwar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
-  
-  <br/>
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=amraha-anwar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amraha-anwar&theme=dark" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amraha-anwar&theme=dark&hide_border=false&border_radius=5&order=3&timezone=Asia%2FKarachi" height="200" />
 </div>
 
 ---
 
+<br/>
+
 <div align="center">
-  <strong>🎀 Thanks for visiting! 🎀</strong>  
+  <strong>💻 Currently Building: Agentic UIs & Interactive AI Workflows</strong><br/>
+  <strong>🌱 Always Learning. Always Coding.</strong>
 </div>
