@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amraha-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amraha-anwar" /> </p>
-
 <h2 align="left">Hi 👋! I'm Amraha Anwar, Web & Agentic AI Developer</h2>
 
 <br/>
@@ -62,6 +60,8 @@
 </div>
 
 ---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amraha-anwar&label=Profile%20views&color=0e75b6&style=flat" alt="amraha-anwar" /> </p>
 
 <br/>
 
